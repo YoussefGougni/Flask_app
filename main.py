@@ -36,7 +36,7 @@ def sendEmail(status):
          print(emailMessage)
 
 while True:
-         loc = GPS1.GPS()
+         
          A = Acc60.acce1()
          status =  {
             "temp" : int(Acc60.temp1() > 30),
