@@ -2,10 +2,10 @@ import smtplib
 
 def myEm(message):
 
-     smtpUser = 'youssefgougni98@gmail.com'
-     smtpPass = 'youssef raja98'
+     smtpUser = 'mail'
+     smtpPass = ' password'
 
-     toAdd =  'youssefgougni98@gmail.com'
+     toAdd =  'mail'
      fromAdd = smtpUser
 
     
